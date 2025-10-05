@@ -1,4 +1,4 @@
-Title: Add Streamlit OT + Stable Fluids morph app (GPU-accelerated) with tests and docs
+Add Streamlit OT + Stable Fluids morph app (GPU-accelerated) with tests and docs
 
 Summary (why)
 - Deliver a robust, efficient image-morphing pipeline using optimal transport for structure alignment and incompressible Stable Fluids for visually pleasing motion; GPU acceleration where available.
